@@ -1,0 +1,4 @@
+project_id = "billing-service"
+
+[functions.billing]
+verify_jwt = false

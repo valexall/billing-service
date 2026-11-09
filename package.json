@@ -1,0 +1,11 @@
+{
+  "name": "ais86-billing-service",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "supabase": "supabase"
+  },
+  "devDependencies": {
+    "supabase": "3.0.0"
+  }
+}
